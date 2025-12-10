@@ -1,62 +1,91 @@
-# 👋 Hey, I’m Ayoub (aka Ayoubrabiae)
+<!-- Profile Header -->
+<h1 align="center">Hey 👋 I’m Ayoub Rabya</h1>
+<h3 align="center">Full-Stack Developer | Systems-minded | Performance-oriented</h3>
 
-I build things that **work under pressure**.
-
-Full-Stack Developer trained at **Zone01 Oujda**, obsessed with understanding *how systems actually function*—not just how to use them. I enjoy peeling back abstractions, breaking things on purpose, and rebuilding them cleaner.
-
----
-
-## 🧠 How I Think
-- Performance is a **design decision**, not a last-minute fix  
-- Frameworks are tools — understanding comes from building underneath them  
-- Clean code is empathy for future developers  
-- If I don’t understand the internals, I’m not done learning
-
----
-
-## 🔧 What I Build
-- ⚡ Real-time systems (WebSockets, multiplayer logic, chat)
-- 🌐 Backend services & APIs (secure, scalable, boring in the good way)
-- 🧱 Systems from scratch (HTTP servers, JS frameworks, low-level parsing)
-- 🎯 Full-stack apps with clear architecture and intentional design
+<p align="center">
+  <a href="https://linkedin.com/in/ayoub-rabiya">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayoub%20Rabya-blue?style=flat&logo=linkedin"/>
+  </a>
+  <a href="mailto:rabiyaeayoub@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail"/>
+  </a>
+  <a href="https://github.com/Ayoubrabiae">
+    <img src="https://img.shields.io/badge/GitHub-Ayoubrabiae-black?style=flat&logo=github"/>
+  </a>
+</p>
 
 ---
 
-## 🛠 Tech I Enjoy Working With
-**Languages:** Go, Java (Spring Boot), Rust, JavaScript  
-**Frontend:** React, Next.js, Angular, Tailwind CSS  
-**Backend:** Node.js, Gin, Spring Security, WebSockets  
-**Databases:** PostgreSQL, MongoDB, SQLite  
-**DevOps:** Docker, CI/CD, Linux  
-**Mindset:** clean architecture, async thinking, security by default
+## 🧠 About Me
+I’m a **Full-Stack Developer trained at Zone01 Oujda** with 1.5+ years of intensive, project-based experience.  
+I enjoy building systems **from the inside out**—from parsing HTTP requests to designing real-time architectures.
+
+I care deeply about **performance, security, and clean design**, and I believe frameworks are best used *after* you understand what they abstract away.
 
 ---
 
-## 🧪 Selected Experiments
-- **Custom HTTP Server (Rust)**  
-  Built an HTTP/1.1 server with non-blocking I/O, manual request parsing, routing, sessions, cookies, and CGI support.
-
-- **JavaScript Framework (from scratch)**  
-  Routing, state management, event handling, DOM diffing. Built to understand why frameworks are complex.
-
-- **Real-Time Social Platform**  
-  Posts, follows, chat, groups, notifications, rate limiting, XSS prevention.
+## 🔥 What I Focus On
+- ⚙️ Backend architecture & system design  
+- ⚡ Real-time applications (WebSockets, concurrency)  
+- 🧱 Building from scratch to understand fundamentals  
+- 🔐 Security as a default, not a feature  
+- 🚀 Performance as a design constraint  
 
 ---
 
-## 🧭 What I’m Aiming For
-I want to work on **real products with real users**, learn from strong engineers, and contribute to systems that are fast, secure, and built to last.
+## 🛠 Tech Stack
+
+| Category | Technologies |
+|-------|-------------|
+| **Languages** | Go · Java · Rust · JavaScript |
+| **Frontend** | React · Next.js · Angular · Tailwind CSS |
+| **Backend** | Node.js · Gin · Spring Boot · Spring Security |
+| **Databases** | PostgreSQL · MongoDB · SQLite |
+| **Real-Time** | WebSockets |
+| **DevOps** | Docker · CI/CD · Linux |
+| **Tools** | Git · GitHub · Postman · Figma |
 
 ---
 
-## 🌍 Outside the Code
-Competitive programming • Hackathons (DatathonX – 3rd place) • Reading • Swimming • Climbing  
+## 🧪 Highlighted Projects
+
+🚀 **Custom HTTP Server (Rust)**  
+- HTTP/1.1 compliant server  
+- Non-blocking I/O, manual parsing  
+- Sessions, cookies, uploads, CGI  
+- Focused on performance & correctness  
+
+🧩 **JavaScript Framework (from scratch)**  
+- Routing, state management  
+- Event system & DOM diffing  
+- Built to understand framework internals  
+
+💬 **Real-Time Social Platform**  
+- Chat, posts, follows, groups  
+- WebSockets + security measures  
+- Rate limiting, XSS protection  
 
 ---
 
-📫 **Let’s connect**  
-- LinkedIn: https://linkedin.com/in/ayoub-rabiya  
-- GitHub: https://github.com/Ayoubrabiae  
-- Email: rabiyaeayoub@gmail.com  
+## 🧭 Philosophy
+> Performance is a design decision.  
+> Frameworks are tools, not crutches.  
+> Clean code is empathy for future developers.
 
-> Still curious about how things work. Probably always will.
+---
+
+## 🏆 Beyond Code
+- 🧠 Competitive Programming Club @ Zone01  
+- 🏁 Hackathons — DatathonX (🥉 3rd Place)  
+- 📚 Reading · 🏊 Swimming · 🧗 Climbing  
+
+---
+
+## 📫 Let’s Connect
+- 🌐 LinkedIn: https://linkedin.com/in/ayoub-rabiya  
+- 💻 GitHub: https://github.com/Ayoubrabiae  
+- ✉️ Email: rabiyaeayoub@gmail.com  
+
+<p align="center">
+  <i>Still curious about how things work. Probably always will.</i>
+</p>
