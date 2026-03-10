@@ -49,7 +49,7 @@ I care deeply about **performance, security, and clean design**, and I believe f
 
 ## 🧪 Highlighted Projects
 
-🚀 **Custom HTTP Server (Rust)**  
+🚀 **Custom HTTP Server (Java)**  
 - HTTP/1.1 compliant server  
 - Non-blocking I/O, manual parsing  
 - Sessions, cookies, uploads, CGI  
