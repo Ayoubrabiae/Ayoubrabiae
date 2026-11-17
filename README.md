@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hey 👋 I’m Ayoub Rabya</h1>
-<h3 align="center">Full-Stack Developer | Systems-minded | Performance-oriented</h3>
+<h3 align="center">Full-Stack/Mobile Developer | Systems-minded | Performance-oriented</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ayoub-rabiya">
